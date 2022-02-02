@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/drawable/bttn_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/drawable/bttn_decline_request.xml" value="0.2203125" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/drawable/bttn_send_request.xml" value="0.2203125" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/drawable/first_user_message_bg.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/drawable/for_bttn.xml" value="0.2203125" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/drawable/input_password_reser.xml" value="0.2203125" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/drawable/second_user_message_bg.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_find_friend.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_friend.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_prof.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_profile_settings.xml" value="0.264" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/activity_view_friend.xml" value="0.264" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/chat_app_bar.xml" value="0.2" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/drawer_header.xml" value="0.4" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/main_app_bar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/single_view_find_friend.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/single_view_friend.xml" value="0.2" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/layout/single_view_message.xml" value="0.4" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/menu/drawer_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Casper Excalibur/AndroidStudioProjects/MobilProgChatApp/app/src/main/res/menu/search_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

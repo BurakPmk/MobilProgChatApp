@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "800078766795",
+    "project_id": "mobilprogchatapp-54295",
+    "storage_bucket": "mobilprogchatapp-54295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800078766795:android:0dab41249c3e591460714e",
+        "android_client_info": {
+          "package_name": "com.example.mobilprogchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800078766795-5juv6fum2vgm9lh0gkk89rf4fnpiv2ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobilprogchatapp",
+            "certificate_hash": "161f67f721a16d6f09832467eb17819187237f4e"
+          }
+        },
+        {
+          "client_id": "800078766795-q22i0lcovdupu29el329f6rpn5f6vs8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GDRrQE_g2F2KEscTHsCjE-sA8C7Mvrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800078766795-q22i0lcovdupu29el329f6rpn5f6vs8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
